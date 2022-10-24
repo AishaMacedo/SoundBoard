@@ -14,6 +14,7 @@
 		B40DEB2629071845008D2AFA /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B40DEB2429071845008D2AFA /* SoundBoard.xcdatamodeld */; };
 		B40DEB2829071846008D2AFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B40DEB2729071846008D2AFA /* Assets.xcassets */; };
 		B40DEB2B29071846008D2AFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B40DEB2929071846008D2AFA /* LaunchScreen.storyboard */; };
+		B40DEB3329071F22008D2AFA /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40DEB3229071F22008D2AFA /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B40DEB2729071846008D2AFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B40DEB2A29071846008D2AFA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B40DEB2C29071846008D2AFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B40DEB3229071F22008D2AFA /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B40DEB2929071846008D2AFA /* LaunchScreen.storyboard */,
 				B40DEB2C29071846008D2AFA /* Info.plist */,
 				B40DEB2429071845008D2AFA /* SoundBoard.xcdatamodeld */,
+				B40DEB3229071F22008D2AFA /* SoundViewController.swift */,
 			);
 			path = SoundBoard;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				B40DEB2029071845008D2AFA /* ViewController.swift in Sources */,
 				B40DEB1C29071845008D2AFA /* AppDelegate.swift in Sources */,
 				B40DEB1E29071845008D2AFA /* SceneDelegate.swift in Sources */,
+				B40DEB3329071F22008D2AFA /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
